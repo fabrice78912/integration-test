@@ -1,0 +1,5 @@
+com/fab/crud/example/repository/ProductRepository.class
+com/fab/crud/example/SpringBootCrudExample2Application.class
+com/fab/crud/example/service/ProductService.class
+com/fab/crud/example/controller/ProductController.class
+com/fab/crud/example/entity/Product.class
